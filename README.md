@@ -40,16 +40,7 @@ I am an Information Technology student with a strong interest in Network Securit
 
 ---
 
-## 📂 Selected Projects
-
-### 🔐 Network Security Lab
-Hands-on lab focused on firewall rule implementation, traffic filtering, and secure network segmentation.
-
-### 🏗️ Network Infrastructure Design
-Designed a structured and secure network architecture based on enterprise requirements, focusing on stability and security.
-
-### 🧪 Network Engineering Lab
-Collection of practical networking labs including routing, switching, and basic security configurations using simulation tools.
+## Hands-on experience through labs and simulations
 
 ---
 
