@@ -18,6 +18,14 @@ I am an Information Technology student with a strong interest in Network Securit
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Palo%20Alto%20Networks-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proofpoint-FF6C37?style=for-the-badge&logo=proofpoint&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/TP--Link%20Omada-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruijie%20Networks-E60012?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zyxel-009EE3?style=for-the-badge&logo=zyxel&logoColor=white"/>
 </p>
 
 ---
