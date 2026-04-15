@@ -26,6 +26,7 @@ I am an Information Technology student with a strong interest in Network Securit
   <img src="https://img.shields.io/badge/TP--Link%20Omada-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruijie%20Networks-E60012?style=for-the-badge&logo=redhat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zyxel-009EE3?style=for-the-badge&logo=zyxel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aviatrix-FF6A00?style=for-the-badge&logo=aviatrix&logoColor=white"/>
 </p>
 
 ---
