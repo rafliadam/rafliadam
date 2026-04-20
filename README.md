@@ -45,10 +45,6 @@ I am an Information Technology student with a strong interest in Network Securit
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-
----
 
 ## 🌐 Connect with Me
 - LinkedIn: www.linkedin.com/in/rafli-adam
